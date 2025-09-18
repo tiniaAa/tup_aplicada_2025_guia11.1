@@ -1,0 +1,1 @@
+# tup_aplicada_2025_guia10.2
